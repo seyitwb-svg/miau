@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Bot runtime artifacts
+prometheus_log.txt
+prometheus_trades.csv
+prometheus_rankings.csv
+prometheus_state.json
+smoke_test_log.txt
